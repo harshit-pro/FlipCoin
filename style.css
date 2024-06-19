@@ -72,7 +72,7 @@ button:hover::before {
 }
 
 .HeadsClass {
-    background-image: url('/new.png');
+    background-image: url('new.png');
 }
 
 .TailsClass {
