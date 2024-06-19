@@ -72,11 +72,11 @@ button:hover::before {
 }
 
 .HeadsClass {
-    background-image: url('/new.png');
+    background-image: url('new.png');
 }
 
 .TailsClass {
-    background-image: url('/tail.png');
+    background-image: url('tail.png');
     transform: rotateY(-180deg);
 }
 
